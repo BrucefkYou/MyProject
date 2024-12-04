@@ -2,11 +2,11 @@
   --background: #ffffff;
   --foreground: #171717;
 }
-
+@import '~bootstrap/scss/bootstrap';
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #c67777;
-    --foreground: #ededed;
+    --background: #ffffff;
+    --foreground: #000000;
   }
 }
 
